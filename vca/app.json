@@ -1,0 +1,15 @@
+{
+  "name": "vca",
+  "displayName": "vca",
+  "expo": {
+    "name": "vca",
+    "slug": "vca",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.quasar0007.vca"
+    }
+  }
+}
